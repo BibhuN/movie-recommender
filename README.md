@@ -192,23 +192,16 @@ Similarity(A, B) = (A · B) / (||A|| × ||B||)
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- GitHub: 
+[Bibhu Narayan Bhattacharya](https://github.com/BibhuN)
+- LinkedIn: [Bibhu Narayan Bhattacharya] (https://www.linkedin.com/in/bibhu-narayan-bhattacharya-462198329/)
+            [Rishi Raj] (https://www.linkedin.com/in/rishi-raj-682aa61bb/)
+            [Siddhant Nayak] (https://www.linkedin.com/in/siddhant-nayak-98b171311)
 
 ---
 
@@ -224,7 +217,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Have questions? Feel free to reach out!
 
-📧 Email: your.email@example.com
+📧 Email:
+bibhunarayan65@gmail.com
+siddhantnayak591@gmail.com
+rishiraj23784@gmail.com
 
 ---
 
