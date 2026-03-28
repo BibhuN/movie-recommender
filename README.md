@@ -197,16 +197,25 @@ Similarity(A, B) = (A · B) / (||A|| × ||B||)
 **👨‍💻 Authors / Team**
 
 1. Bibhu Narayan Bhattacharya
-   GitHub: @BibhuN
-   LinkedIn: Bibhu Narayan Bhattacharya
+
+   GitHub: https://github.com/BibhuN
+
+   LinkedIn: https://www.linkedin.com/in/bibhu-narayan-bhattacharya-462198329/
+
    Email: bibhunarayan65@gmail.com
 
+
 2. Rishi Raj
-   LinkedIn: Rishi Raj
+
+   LinkedIn: https://www.linkedin.com/in/rishi-raj-682aa61bb/
+
    Email: rishiraj23784@gmail.com
-   
+
+
 3. Siddhant Nayak
-   LinkedIn: Siddhant Nayak
+
+   LinkedIn: https://www.linkedin.com/in/siddhant-nayak-98b171311
+
    Email: siddhantnayak591@gmail.com
 
 ---
