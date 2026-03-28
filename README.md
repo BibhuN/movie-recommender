@@ -194,14 +194,20 @@ Similarity(A, B) = (A · B) / (||A|| × ||B||)
 
 ---
 
-## 👨‍💻 Author
+**👨‍💻 Authors / Team**
 
-**Your Name**
-- GitHub: 
-[Bibhu Narayan Bhattacharya](https://github.com/BibhuN)
-- LinkedIn: [Bibhu Narayan Bhattacharya] (https://www.linkedin.com/in/bibhu-narayan-bhattacharya-462198329/)
-            [Rishi Raj] (https://www.linkedin.com/in/rishi-raj-682aa61bb/)
-            [Siddhant Nayak] (https://www.linkedin.com/in/siddhant-nayak-98b171311)
+1. Bibhu Narayan Bhattacharya
+   GitHub: @BibhuN
+   LinkedIn: Bibhu Narayan Bhattacharya
+   Email: bibhunarayan65@gmail.com
+
+2. Rishi Raj
+   LinkedIn: Rishi Raj
+   Email: rishiraj23784@gmail.com
+   
+3. Siddhant Nayak
+   LinkedIn: Siddhant Nayak
+   Email: siddhantnayak591@gmail.com
 
 ---
 
@@ -218,9 +224,11 @@ Similarity(A, B) = (A · B) / (||A|| × ||B||)
 Have questions? Feel free to reach out!
 
 📧 Email:
-bibhunarayan65@gmail.com
-siddhantnayak591@gmail.com
-rishiraj23784@gmail.com
+1. bibhunarayan65@gmail.com
+
+2. siddhantnayak591@gmail.com
+
+3. rishiraj23784@gmail.com
 
 ---
 
