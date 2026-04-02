@@ -1,4 +1,4 @@
-# 🎬 CineMatch - AI-Powered Movie Recommendation System
+# 🎬 AI-Powered Movie Recommendation System
 
 An intelligent movie recommendation system built with Machine Learning that suggests personalized movies based on content similarity.
 
